@@ -8,7 +8,7 @@
 ## 1. What This Repository Is
 
 <!-- TODO: Replace this section with a concise description of the project. -->
-`[REPO-NAME]` is a **[brief description]** owned by Jeffrey Geronimo (Geronimo AI / EdStratum Labs).
+`[REPO-NAME]` is a **[brief description]** owned by EdStratum Labs.
 
 **Live URL:** `https://[your-domain]`
 **Deployed on:** Schubert Nexus (`/opt/[REPO-NAME]/`)
@@ -201,6 +201,6 @@ All projects share `polyglot-litellm.service` (port 4000) and `ollama.service` (
 
 ## 10. Contact and Authorization
 
-**Human owner:** Jeffrey Geronimo (`jg@writer.com`) — Geronimo AI / EdStratum Labs
+**Human owner:** EdStratum Labs (`jg@writer.com`)
 
 For any action outside defined scope — modifying `AGENTS.md`, touching forbidden services, making architectural changes not covered by an ADR, or destructive operations — **stop and ask the human owner for explicit authorization.**
