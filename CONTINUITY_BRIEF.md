@@ -6,7 +6,7 @@
 
 ## Project Identity
 - **Project name:** [PROJECT NAME]
-- **Owner:** Jeffrey Geronimo (`jg@writer.com`) — Geronimo AI / EdStratum Labs
+- **Owner:** EdStratum Labs (`jg@writer.com`)
 - **Live URL:** `https://[your-domain]`
 - **Repo:** `https://github.com/theonlygeranium/[REPO-NAME]` (private/public)
 - **Default branch:** `main` → auto-deploys to Schubert on push
