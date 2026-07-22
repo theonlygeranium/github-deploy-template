@@ -12,7 +12,7 @@
 
 **Live URL:** `https://[your-domain]`
 **Deployed on:** Schubert Nexus (`/opt/[REPO-NAME]/`)
-**Owner contact:** `jg@writer.com`
+**Owner contact:** `founder@edstratumlabs.ai`
 
 ---
 
@@ -201,6 +201,6 @@ All projects share `polyglot-litellm.service` (port 4000) and `ollama.service` (
 
 ## 10. Contact and Authorization
 
-**Human owner:** EdStratum Labs (`jg@writer.com`)
+**Human owner:** EdStratum Labs (`founder@edstratumlabs.ai`)
 
 For any action outside defined scope — modifying `AGENTS.md`, touching forbidden services, making architectural changes not covered by an ADR, or destructive operations — **stop and ask the human owner for explicit authorization.**
